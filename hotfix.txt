@@ -1,0 +1,1 @@
+Hotfix são branches utilizados para realizar correções especificas e criticas que são encontradas em produção.
